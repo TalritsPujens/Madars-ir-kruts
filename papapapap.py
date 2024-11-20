@@ -1,1 +1,1 @@
-print("suds")
+print("sūds")
